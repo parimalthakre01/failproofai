@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "failproofai-policy-publish": {
+      "source": "FailproofAI/skills",
+      "sourceType": "github",
+      "skillPath": "skills/failproofai-policy-publish/SKILL.md",
+      "computedHash": "d208c7bdb4ea146a735cb9b8519e3bd8f135bdf38897c530d237236773c878bd"
+    },
+    "failproofai-sdk": {
+      "source": "FailproofAI/skills",
+      "sourceType": "github",
+      "skillPath": "skills/failproofai-sdk/SKILL.md",
+      "computedHash": "5c4d8865ac6e5467bd38a6d225dd913af5a095b2678c12d0824d625fe6672871"
+    },
+    "fp-cloud-cli": {
+      "source": "FailproofAI/skills",
+      "sourceType": "github",
+      "skillPath": "skills/fp-cloud-cli/SKILL.md",
+      "computedHash": "54103cec42921a0f52428495dd00c01f4f4727cfd18cf828109883e6bf3f42e7"
+    }
+  }
+}
